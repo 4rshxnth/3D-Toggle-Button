@@ -54,11 +54,6 @@ This toggle is designed to work seamlessly with dark mode UIs and is fully custo
 
 ---
 
-## 📸 Preview
-
-
----
-
 ## 📄 License
 
 MIT License — free to use and modify for personal or commercial use.
