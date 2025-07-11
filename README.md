@@ -8,7 +8,7 @@ This toggle is designed to work seamlessly with dark mode UIs and is fully custo
 
 ## 📺 Watch the Full Tutorial on YouTube
 
-▶️ [How to Make a 3D Toggle Button Using HTML & CSS](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+▶️ [How to Make a 3D Toggle Button Using HTML & CSS](https://youtu.be/1-Nxov0euFA?si=dSrGT_RMbK7OE5l8)
 
 > Learn how to build this component step-by-step in under 10 minutes!
 
